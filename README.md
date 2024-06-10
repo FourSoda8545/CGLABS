@@ -6,7 +6,7 @@ Este proyecto integra un Kinect de Xbox 360 con una IA generada con Python. Se p
 
 - Python 3.7 o superior
 - Las librerías listadas en `requirements.txt`
-- Hardware 
+- Hardware de visión y sensores
 
 ## Instalación
 
