@@ -1,8 +1,5 @@
+ # v1.0
  
-# Hacer una inteligencia artificial con Python, con ella, aprovechar el hardware de un Kinect de un Xbox 360
-# El proposito sera fusionar un software de 4 puntos como pilares, siendo este el primero; reahbilitación 
-# fisica asistida con Inteligencia Artificial.
-
 import cv2
 import numpy as np
 import mediapipe as mp
